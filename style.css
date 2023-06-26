@@ -126,9 +126,10 @@ font-family: Arial, Helvetica, Sans-serif;
 
 .tri-headers {
   margin: 10px;
+  margin-left: 15px;
   text-align: left;
   line-height: 17px;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .meat-sub {
