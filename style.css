@@ -25,7 +25,8 @@ font-family: Arial, Helvetica, Sans-serif;
   flex-direction: column;
   flex-wrap: nowrap;
   
-  background: linear-gradient(45deg, #828386, rgba(130, 131, 134, 0)) fixed;
+  background: linear-gradient(225deg, rgba(130, 131, 134, 0), #828386) fixed;
+  
   width: 30%;
   max-width: 350px;
   text-align: center;
