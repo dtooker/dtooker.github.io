@@ -1,0 +1,141 @@
+body {
+font-family: Arial, Helvetica, Sans-serif;
+}
+
+.page-center {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+  
+.stove-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: white;
+  width: 100%;
+  max-width: 1200px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+  
+.skillet-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  background-color: #828385;
+  width: 30%;
+  max-width: 350px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 24px;
+}
+  
+.resume-name {
+  width: 90%;
+  margin: 10px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: white;
+  line-height: 30px;
+  font-size: 28px;
+}
+  
+.sauce-headings {
+  background-color: #3e3636;
+  border: 1px solid black;
+  width: 97%;
+  text-align: left;
+  color: white;
+  line-height: 24px;
+  font-size: 18px;
+  padding-left: 5px;
+}
+  
+.sauce-sub-headings {
+  margin: 10px;
+  text-align: left;
+  color: white;
+  line-height: 0px;
+  font-size: 20px;
+  font-style: bold;
+}
+
+.sauce-para {
+  margin: 10px;
+  text-align: left;
+  color: white;
+  line-height: 16px;
+  font-size: 16px;
+}
+  
+.sauce-para > a{
+  color: white;
+}
+  
+.spice-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 98%;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+  
+.brand-container {
+  background-color: white;
+  width: 25%;
+  margin: 10px;
+  text-align: center;
+  line-height: 18px;
+  font-size: 16px;
+  padding: 10px;
+}
+  
+.brand-container > p {
+  line-height: 5px;
+  font-size: 14px;
+
+}
+
+.meat-container {
+  background-color: white;
+  width: 100%;
+  margin: 10px;
+  text-align: left;
+  line-height: 18px;
+  font-size: 16px;
+  padding: 10px;
+}
+  
+.summary-headline {
+  background-color: white;
+  margin: 10px;
+  text-align: left;
+  line-height: 20px;
+  font-size: 20px;
+  Padding: 10px;
+}
+  
+
+.tri-headers {
+  margin: 10px;
+  text-align: left;
+  line-height: 17px;
+  font-size: 15px;
+}
+
+.meat-sub {
+  text-align: left;
+  color: gray;
+  line-height: 18px;
+  font-size: 18px;
+}
+  
+.second-column {
+  width: 60%;
+}
