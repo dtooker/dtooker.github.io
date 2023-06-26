@@ -25,7 +25,7 @@ font-family: Arial, Helvetica, Sans-serif;
   flex-direction: column;
   flex-wrap: nowrap;
   
-  background: linear-gradient(to bottom, #828385 50%, #ffffff);
+  background: linear-gradient(to bottom, #828385 40%, #ffffff 60%, #ffffff);
   
   width: 30%;
   max-width: 350px;
@@ -118,8 +118,8 @@ font-family: Arial, Helvetica, Sans-serif;
   background-color: white;
   margin: 10px;
   text-align: left;
-  line-height: 24px;
-  font-size: 18px;
+  line-height: 26px;
+  font-size: 22px;
   Padding: 10px;
 }
   
